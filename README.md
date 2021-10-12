@@ -1,6 +1,6 @@
 # WindowsTools
 
-# CLI - Tools
+# GUI - Tools
 ## Write
 - Locatie:   C:\Windows\write.exe
 - Doel: Teksteditor
@@ -13,3 +13,6 @@
 ## Explorer-Editor:
 - Locatie: C:\Windows\explorer.exe
 - Doel: Windows Verkenner
+
+# CLI - Tools
+

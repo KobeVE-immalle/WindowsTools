@@ -1,4 +1,5 @@
 # WindowsTools
+
 # GUI - Tools
 ## Write
 - Locatie:   C:\Windows\write.exe
@@ -29,7 +30,17 @@
 
 ## NSLookup
 - Locatie: C:\Windows\System32\nslookup.exe
-- Doel: 
+- Doel: Bekijken van DNS architecturen
 
 ## Ping
+- Locatie: C:\Windows\System32\PING.EXE
+- Doel: Pingen van websites
 
+## Shutdown
+- Locatie : C:\Windows\System32\shutdown.exe
+- Doel: Uitzetten van de pc
+- 
+
+## Taskkill
+- Locatie: C:\Windows\System32\taskkill.exe
+- Doel: Uitschakelen van een bepaald procces

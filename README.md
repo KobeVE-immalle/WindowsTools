@@ -11,7 +11,7 @@
  - Doel : Windows help programma
 
 ## Explorer-Editor:
-- Locatie: C:\Windows\explorer.exe
+- Locatie: \C:\Windows\explorer.exe\
 - Doel: Windows Verkenner
 - 
 ## OnScreenKeyboard

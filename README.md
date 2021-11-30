@@ -2,7 +2,7 @@
 
 # GUI - Tools
 ## Write
-- Locatie:   C:\Windows\write.exe
+- Locatie:   *C:\Windows\write.exe*
 - Doel: Teksteditor
 
 
@@ -11,7 +11,7 @@
  - Doel : Windows help programma
 
 ## Explorer-Editor:
-- Locatie: \C:\Windows\explorer.exe\
+- Locatie: C:\Windows\explorer.exe
 - Doel: Windows Verkenner
 - 
 ## OnScreenKeyboard

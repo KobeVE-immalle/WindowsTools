@@ -2,7 +2,7 @@
 
 # GUI - Tools
 ## Write
-- Locatie:   *C:\Windows\write.exe*
+- Locatie:   **C:\Windows\write.exe**
 - Doel: Teksteditor
 
 
